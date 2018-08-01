@@ -1,0 +1,6 @@
+body { font-family:Times new roman }
+.tabs a { background-color: #5C9362; padding: 4px 8px 4px 8px; color:#fff; text-decoration:none; border-radius: 10px; }
+.tabs a:hover { background-color: #7AAF7F; }
+body{background: url("r.jpg"); background-size:1800px; }
+#ink { width: 612px; float:left; margin:0 20px 10px 0; }
+.newline { clear:both; }
